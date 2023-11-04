@@ -1,4 +1,4 @@
-# Life In A Metro - Computer Graphics Project
+# Life In A Metro
 
 ## Overview
 
@@ -50,5 +50,3 @@ The "Life In A Metro" project includes the following scenes:
 2. **Evening Sunset**: As the day progresses, the scene transitions to evening with a mesmerizing sunset view.
 
 3. **Night View**: The project concludes with a night view of the city and mountains, showcasing the city's lights and the serene mountain landscape.
-
-Enjoy exploring the "Life In A Metro" Computer Graphics Project and learning about the application of OpenGL in creating visually engaging scenes.
